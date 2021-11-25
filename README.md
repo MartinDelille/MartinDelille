@@ -1,3 +1,5 @@
+![Trois vélos à Bahia](trois-velos-a-bahia.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a new website
